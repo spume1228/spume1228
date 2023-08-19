@@ -68,12 +68,6 @@ graph TD;
     machine-learning-->Deployment;
    ```
    
- 
-
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
 
